@@ -1,0 +1,7 @@
+name "vh"
+description "verbose head or something, at least at one point"
+authors "JR"
+copyright "Copyright © 2022, JR"
+license "MIT"
+
+dependency "argparse" version="~>0.6.0"
