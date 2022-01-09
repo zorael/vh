@@ -11,7 +11,7 @@ import argparse;
 /++
 	Configuration struct, for use with [argparse].
  +/
-@(Command("vh2")
+@(Command("vh")
 	.Description("I don't know, it used to be verbose head, now it's just vh.")
 	.Epilog("Should work.")
 )
