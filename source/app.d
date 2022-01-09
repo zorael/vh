@@ -22,7 +22,7 @@ struct Configuration
 		.Placeholder("NUMBER"))
 	uint numLines = 10;
 
-	@(NamedArgument([ "colours", "colors", "c" ])
+	@(NamedArgument([ "colours", "colors" ])
 		.Description("Whether or not to use coloured output.")
 		.Placeholder("BOOL"))
 	bool colours = true;
